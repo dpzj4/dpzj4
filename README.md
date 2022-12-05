@@ -1,4 +1,8 @@
 ### Hi, if youre reading this then I did something right.
+I'm currently learning basics.
+I'm currently working on finding employment.
+I'm looking for help on everything.
+
 
 <!--
 **dpzj4/dpzj4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
