@@ -1,7 +1,7 @@
 ### Hi, if youre reading this then I did something right.
-I'm currently learning basics.
-I'm currently working on finding employment.
-I'm looking for help on everything.
+- I'm currently learning basics.
+- I'm currently working on finding employment.
+- I'm looking for help on everything.
 
 
 <!--
